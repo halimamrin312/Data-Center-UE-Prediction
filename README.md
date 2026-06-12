@@ -189,5 +189,3 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if this project helped you!
 
 ---
-
-**Note**: Pastikan untuk tidak commit file model yang besar ke GitHub. Gunakan Git LFS atau simpan di cloud storage.
