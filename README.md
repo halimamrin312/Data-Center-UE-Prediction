@@ -120,7 +120,7 @@ print(f'Predicted PUE: {predicted_pue:.4f}')
 ## 📁 Struktur Project
 
 ```
-AiDataCenter/
+Data Center PUE Prediction/
 ├── data_center_hybrid.csv      # Dataset
 ├── main.ipynb                   # Notebook utama
 ├── requirements.txt             # Python dependencies
